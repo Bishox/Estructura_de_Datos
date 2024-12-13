@@ -1,0 +1,14 @@
+/home/mx/Estructura_de_Datos/SEMANA3/bin/Debug/net9.0/SEMANA3
+/home/mx/Estructura_de_Datos/SEMANA3/bin/Debug/net9.0/SEMANA3.deps.json
+/home/mx/Estructura_de_Datos/SEMANA3/bin/Debug/net9.0/SEMANA3.runtimeconfig.json
+/home/mx/Estructura_de_Datos/SEMANA3/bin/Debug/net9.0/SEMANA3.dll
+/home/mx/Estructura_de_Datos/SEMANA3/bin/Debug/net9.0/SEMANA3.pdb
+/home/mx/Estructura_de_Datos/SEMANA3/obj/Debug/net9.0/SEMANA3.GeneratedMSBuildEditorConfig.editorconfig
+/home/mx/Estructura_de_Datos/SEMANA3/obj/Debug/net9.0/SEMANA3.AssemblyInfoInputs.cache
+/home/mx/Estructura_de_Datos/SEMANA3/obj/Debug/net9.0/SEMANA3.AssemblyInfo.cs
+/home/mx/Estructura_de_Datos/SEMANA3/obj/Debug/net9.0/SEMANA3.csproj.CoreCompileInputs.cache
+/home/mx/Estructura_de_Datos/SEMANA3/obj/Debug/net9.0/SEMANA3.dll
+/home/mx/Estructura_de_Datos/SEMANA3/obj/Debug/net9.0/refint/SEMANA3.dll
+/home/mx/Estructura_de_Datos/SEMANA3/obj/Debug/net9.0/SEMANA3.pdb
+/home/mx/Estructura_de_Datos/SEMANA3/obj/Debug/net9.0/SEMANA3.genruntimeconfig.cache
+/home/mx/Estructura_de_Datos/SEMANA3/obj/Debug/net9.0/ref/SEMANA3.dll
